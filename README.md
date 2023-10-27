@@ -25,6 +25,8 @@ If you are wondering where to get these test ethers you can visit different fauc
 
 2. https://faucet.rinkeby.io/
 
-3. https://faucet.goerli.starknet.io/ 
+3. https://faucet.goerli.starknet.io/
+
+4. https://sepolia-faucet.pk910.de/ <b>(Recommended)</b>
 
 Getting test ethers from these sites is not easy as you will get limited ethereum per day but those are plenty for testing purposes. If you want ethers in large amount you should use local test network such as Ganache which is very fast and effecient to use than other test networks. 
